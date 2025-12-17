@@ -1,0 +1,5 @@
+{
+  "name": "FashionAI Studio",
+  "description": "Professional AI-powered fashion photography studio using Gemini 3 Pro and NanoBanana Pro models for pose generation and virtual try-on.",
+  "requestFramePermissions": []
+}
